@@ -2,13 +2,20 @@ Project 1. Simple ML app
 
 
 ## Content
-[1. Project description](.README.md#Project-description)  
-[2. What problem are we solving?](.README.md#What-problem-are-we-solving)  
-[3. Short info about initial data](.README.md#Short-info-about-initial-data)  
-[4. Stages of the project](.README.md#Stages-of-the-project)  
-[5. Results](.README.md#Results)    
-[6. Conclusions](.README.md#Conclusions)
+0. [Team](.README.md#Team)
+1. [Project description](.README.md#Project-description)
+2. [What problem are we solving?](.README.md#What-problem-are-we-solving)
+3. [Short info about initial data](.README.md#Short-info-about-initial-data)
+4. [Stages of the project](.README.md#Stages-of-the-project)
+5. [Results](.README.md#Results)
+6. [Conclusions](.README.md#Conclusions)
 
+### Team
+- Viktor Roterman (ViktorRtm)
+- Vyacheslav Kolotiy (kv49)
+- Yyzhakov Sergey (PrintSmart)
+
+:arrow_up:[to Content](_)
 
 ### Project description
 Web/API app based on pre-trained model
@@ -63,7 +70,7 @@ pip install torch
 ```
 ... and for Running use command:
 ```
-streamlit run question_answering2.py 
+streamlit run web_answering.py 
 ```
 #### 2) API application on FastAPI, for installation need:
 Use this commands:
