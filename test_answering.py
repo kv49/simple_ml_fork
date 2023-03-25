@@ -8,7 +8,7 @@ client = TestClient(app)
 def test_root():
     response_root = client.get("/")
     assert response_root.status_code == 200
-    assert response_root.json() == {"massage": 'Hello adsfasd'}
+    assert response_root.json() == {"message": 'Hello adsfasd'}
 
 
 def test_nswer():
