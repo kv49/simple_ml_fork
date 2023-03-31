@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 ... and for Running use command:
 ```
-uvicorn question_answering_api:app --host=0.0.0.0
+uvicorn api_answering:app --host=0.0.0.0
 ```
 
 :arrow_up:[to Content](.README.md#Content)
