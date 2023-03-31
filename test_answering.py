@@ -33,7 +33,7 @@ def test_nswer():
     weekends. Robin’s restaurant is doing so well that he could take a long
     holiday. But he’s busy with his new idea to open a supermarket selling
     food from around the world. He’s already found a building near his
-    restaurant.'''.replace('\n', ' ').replace('     ',' '),
+    restaurant.'''.replace('\n', ' ').replace('     ', ' '),
         'question': 'Who helped Robin open his restaurant?'})
     json_data = response_answer.json()
 
