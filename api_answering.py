@@ -27,8 +27,8 @@ def root():
 
 @app.post("/answer/")
 def answer(item: Answer):
-    QA_input = {"context": item.context}
-    QA_input["question"] = item.question
+    QA_input = {"context": item.context,
+                "question": item.question}
     result = nlp(QA_input)
     return {"context": item.context,
             "question": item.question,
