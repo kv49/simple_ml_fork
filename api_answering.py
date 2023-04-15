@@ -24,7 +24,7 @@ nlp = get_pipe_line(model_name)
 def root():
     return {"message": 'Hello adsfasd'}
 
-
+# функция принимает объект класса Answer, из него заполняется словарьб который передается в модель для формирования ответов в соответствии с контекстом
 @app.post("/answer/")
 def answer(item: Answer):
     QA_input = {"context": item.context,
