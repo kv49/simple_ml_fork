@@ -1,26 +1,25 @@
 Project 1. Simple ML app
 
-
 ## Content
-0. [Team](README.md#Team)
-1. [Project description](README.md#Project-description)
-2. [What problem are we solving?](README.md#What-problem-are-we-solving)
-3. [Short info about initial data](README.md#Short-info-about-initial-data)
-4. [Stages of the project](README.md#Stages-of-the-project)
-5. [Results](README.md#Results)
-6. [Conclusions](README.md#Conclusions)
+0. [Team](.README.md#Team)
+1. [Project description](.README.md#Project-description)
+2. [What problem are we solving?](.README.md#What-problem-are-we-solving)
+3. [Short info about initial data](.README.md#Short-info-about-initial-data)
+4. [Stages of the project](.README.md#Stages-of-the-project)
+5. [Results](.README.md#Results)
+6. [Conclusions](.README.md#Conclusions)
 
 ### Team
 - Viktor Roterman (ViktorRtm)
 - Vyacheslav Kolotiy (kv49)
 - Yyzhakov Sergey (PrintSmart)
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](_)
 
 ### Project description
 Web/API app based on pre-trained model
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](_)
 
 
 ### What problem are we solving?
@@ -43,7 +42,7 @@ We had:
 - 2 implementation options
 - and only 1 chance to succeed
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](.README.md#Content)
 
 
 ### Stages of the project
@@ -55,17 +54,18 @@ We had:
 6. Do the tests.
 7. Be happy.
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](.README.md#Content)
 
 
 ### Results:
 Two options for implementing the application. 
 #### 1) Web application on streamlit, for installation need:
-Use this commands:
+Import following libraries:
 ```
-sudo apt update
-sudo apt install python3.10-venv
-pip install -r web_requirements.txt
+pip install streamlit==1.13
+pip install transformers
+pip install tensorflow
+pip install torch
 ```
 ... and for Running use command:
 ```
@@ -83,10 +83,11 @@ pip install -r requirements.txt
 uvicorn api_answering:app --host=0.0.0.0
 ```
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](.README.md#Content)
 
 
 ### Conclusions:
 ... in process ...
 
-:arrow_up:[to Content](README.md#Content)
+:arrow_up:[to Content](.README.md#Content)
+
