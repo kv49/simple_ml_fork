@@ -2,12 +2,12 @@ Project 1. Simple ML app
 
 ## Content
 0. [Team](.README.md#Team)
-1. [Project description](.README.md#Project-description)
-2. [What problem are we solving?](.README.md#What-problem-are-we-solving)
-3. [Short info about initial data](.README.md#Short-info-about-initial-data)
-4. [Stages of the project](.README.md#Stages-of-the-project)
-5. [Results](.README.md#Results)
-6. [Conclusions](.README.md#Conclusions)
+1. [Project description](README.md#Project-description)
+2. [What problem are we solving?](README.md#What-problem-are-we-solving)
+3. [Short info about initial data](README.md#Short-info-about-initial-data)
+4. [Stages of the project](README.md#Stages-of-the-project)
+5. [Results](README.md#Results)
+6. [Conclusions](README.md#Conclusions)
 
 ### Team
 - Viktor Roterman (ViktorRtm)
