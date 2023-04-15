@@ -14,12 +14,12 @@ Project 1. Simple ML app
 - Vyacheslav Kolotiy (kv49)
 - Yyzhakov Sergey (PrintSmart)
 
-:arrow_up:[to Content](_)
+:arrow_up:[to Content](README.md#Content)
 
 ### Project description
 Web/API app based on pre-trained model
 
-:arrow_up:[to Content](_)
+:arrow_up:[to Content](README.md#Content)
 
 
 ### What problem are we solving?
@@ -42,7 +42,7 @@ We had:
 - 2 implementation options
 - and only 1 chance to succeed
 
-:arrow_up:[to Content](.README.md#Content)
+:arrow_up:[to Content](README.md#Content)
 
 
 ### Stages of the project
@@ -54,7 +54,7 @@ We had:
 6. Do the tests.
 7. Be happy.
 
-:arrow_up:[to Content](.README.md#Content)
+:arrow_up:[to Content](README.md#Content)
 
 
 ### Results:
@@ -83,11 +83,11 @@ pip install -r requirements.txt
 uvicorn api_answering:app --host=0.0.0.0
 ```
 
-:arrow_up:[to Content](.README.md#Content)
+:arrow_up:[to Content](README.md#Content)
 
 
 ### Conclusions:
 ... in process ...
 
-:arrow_up:[to Content](.README.md#Content)
+:arrow_up:[to Content](README.md#Content)
 
