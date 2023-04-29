@@ -60,12 +60,11 @@ We had:
 ### Results:
 Two options for implementing the application. 
 #### 1) Web application on streamlit, for installation need:
-Import following libraries:
+Use this commands:
 ```
-pip install streamlit==1.13
-pip install transformers
-pip install tensorflow
-pip install torch
+sudo apt update
+sudo apt install python3.10-venv
+pip install -r web_requirements.txt
 ```
 ... and for Running use command:
 ```
